@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_vayu.mk
+    $(LOCAL_DIR)/aicp_vayu.mk
 
 COMMON_LUNCH_CHOICES := \
     aicp_vayu-eng \
